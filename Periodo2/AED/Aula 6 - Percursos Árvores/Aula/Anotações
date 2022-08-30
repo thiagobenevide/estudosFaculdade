@@ -1,0 +1,20 @@
+Árvores de percurso para criar árvores
+
+Percorrer com recursividade
+-percurso pre ordem 
+-percurso em ordem (fica em ordem crescente)
+-percurso pos ordem
+
+
+Árvores de Expressões Para Criar as árvores
+
+Utiliza 2 pilhas auxiliares
+    Pilha Binário
+    Pilha Operador
+
+Pesquisar sobre função anonima em python
+
+Operações
+-pré fixos
+-pós fixos
+-fix
